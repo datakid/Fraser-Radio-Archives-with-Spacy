@@ -1,7 +1,7 @@
 # Background
 [Malcolm Fraser](https://en.wikipedia.org/wiki/Malcolm_Fraser) was an Australian federal politician for over 30 years including a term as Prime Minister.
 
-His electorate, [Wannon, is over 1000km from Canberra](https://en.wikipedia.org/wiki/Division_of_Wannon#/media/File:Division_of_Wannon_2019.png), and travel between the two was time consuming and difficult.
+His electorate, [Wannon, is over 1000km from Canberra](https://en.wikipedia.org/wiki/Division_of_Wannon#/media/File:Division_of_Wannon_2019.png), and at the time travel between the two was time consuming and difficult.
 
 To stay in contact with his electorate, he regularly pre-recorded radio spots to tape and those tapes would be transported to the two radio stations in his electorate.
 
