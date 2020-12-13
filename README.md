@@ -16,7 +16,7 @@ We use [spaCy](https://spacy.io/usage) for this project. It's installation will 
 ```
 $ python3 -m venv ~/.venvs/spacy
 $ source ~/.venvs/spacy/bin/activate
-$ pip install spacy jupyter --user
+$ pip install spacy jupyter
 ```
 
 You can then launch a jupyter instance from within the directory you downloaded this repository into.
